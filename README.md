@@ -3,4 +3,4 @@ axit
 
 Технологии: HTML/CSS javascript + json
 
-P.S.чтобы работала форма нужно запусить json-server json-server db.json
+P.S.чтобы работала форма CONTACT US нужно запусить json-server json-server db.json
